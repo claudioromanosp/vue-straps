@@ -16,7 +16,7 @@
     "font-awesome": "4.7.0",
     "jquery": "3.3.1",
     "popper.js": "1.14.3",
-    "vue": "2.5.16"
+    "vue": "^2.5.16"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -60,7 +60,7 @@
     "url-loader": "^0.5.8",
     "vue-loader": "^13.3.0",
     "vue-style-loader": "^3.1.2",
-    "vue-template-compiler": "^2.5.2",
+    "vue-template-compiler": "^2.5.17",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "^2.9.1",
