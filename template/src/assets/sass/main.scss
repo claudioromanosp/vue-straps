@@ -1,0 +1,9 @@
+//all sass files import here
+@import '../../../node_modules/bootstrap/dist/css/bootstrap';
+$fa-font-path: "~font-awesome/fonts";
+@import '~font-awesome/scss/font-awesome.scss';
+@import 'compass';
+@import 'components/mixin.scss';
+@import 'variables/color-variables.scss';
+@import 'variables/variables.scss';
+@import 'general.scss';
