@@ -1,4 +1,4 @@
-# Vue Straps
+# Vue Straps Template for Vuejs
 
 > Vuejs 2 + Boostrap 4 + Font-awesome 4 + Sass + Compass + Jquery + Webpack
 
@@ -22,7 +22,7 @@ There is an initial structure, but feel free to leave it your way.
 
 Step-by-step to use:
 
-* git clone the project
+* vue init claudioromanosp/vue-straps name-your-project
 * npm install (install the dependencies)
 * npm run dev (start the server)
 * npm run build (building app)
