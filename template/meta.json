@@ -1,0 +1,19 @@
+{
+  "schema": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Vue-straps"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "Project description",
+      "default": "Vuejs 2 + Boostrap 4 + Font-awesome 4 + Sass + Compass + Jquery + Webpack"
+    },
+    "author": {
+      "type": "string",
+      "label": "Claudio Romano <claudioromanosp@gmail.com>"
+    }
+  }
+}
